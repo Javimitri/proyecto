@@ -27,10 +27,5 @@ Automatización, digitalización y sensorización del centro.
 - ARIMA
 
 - SARIMA
+
 - Autoregresivo modificado.
-
-## ****Code-Resource****
-
-## Datasets
-
-[Bitcoin](https://www.kaggle.com/datasets/raihansoniwala/btc-10-years-price-data-20122021)
